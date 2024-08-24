@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 *Hello World!*
+ 2024
 
 <!---
 depetre/depetre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
